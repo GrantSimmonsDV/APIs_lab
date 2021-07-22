@@ -8,10 +8,12 @@ button:hover {
     color: white;
   }
 button {
-    position: relative;
-    text-align: center;
     display: flex;
+    align-items: center;
     justify-content: center;
     background-color: azure;
     border-radius: 1em;
+    width: 50vw;
+    margin-left: 17.5em;
 }
+
