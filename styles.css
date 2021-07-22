@@ -1,1 +1,17 @@
-h2
+h2 {
+text-align: center; 
+color: rgb(103, 180, 129); 
+  
+}
+button:hover {
+    background-color: rgb(42, 110, 187);
+    color: white;
+  }
+button {
+    position: relative;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    background-color: azure;
+    border-radius: 1em;
+}
